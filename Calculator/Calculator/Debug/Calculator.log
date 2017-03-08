@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\downloads\calculator_lobachda\calculator\calculator\source.cpp(161): warning C4715: DlgCommandProc: значение возвращается не при всех путях выполнения
+  Calculator.vcxproj -> C:\Users\User\Downloads\Calculator_LobachDA\Calculator\Debug\Calculator.exe
+  Calculator.vcxproj -> C:\Users\User\Downloads\Calculator_LobachDA\Calculator\Debug\Calculator.pdb (Full PDB)
